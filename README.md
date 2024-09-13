@@ -1,5 +1,7 @@
 This is a ridiculous game that was generated almost entirely by the o1 model in 7 iterations for fun.
 
+![Screenshot 2024-09-12 at 10 53 04 PM](https://github.com/user-attachments/assets/6e136fbc-4b4b-4efa-a9ce-c710f16d8f76)
+
 index1-x.html represents the game through each iteration.
 
 I had to manually intervene at the end because it broke one of the sprite svgs and couldn't fix it. All I did was replace the sprite with one of the earlier ones.
